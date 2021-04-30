@@ -1,0 +1,10 @@
+[
+{"local": "Borussia Dortmund", "visitante": "Paris Saint-Germain", "referee_name": "Matéu Lahoz", "referee_birthdate": "Mar 12, 1977 ", "referee_citizenship": "Spain"},
+{"local": "Atlético Madrid", "visitante": "Liverpool FC", "referee_name": "Szymon Marciniak", "referee_birthdate": "Jan 7, 1981 ", "referee_citizenship": "Poland"},
+{"local": "Chelsea FC", "visitante": "Bayern Munich", "referee_name": "Clément Turpin", "referee_birthdate": "May 16, 1982 ", "referee_citizenship": "France"},
+{"local": "Olympique Lyon", "visitante": "Juventus FC", "referee_name": "Jesús Gil Manzano", "referee_birthdate": "Feb 4, 1984 ", "referee_citizenship": "Spain"},
+{"local": "Tottenham Hotspur", "visitante": "RB Leipzig", "referee_name": "Cüneyt Cakir", "referee_birthdate": "Nov 23, 1976 ", "referee_citizenship": "Turkey"},
+{"local": "SSC Napoli", "visitante": "FC Barcelona", "referee_name": "Dr. Felix Brych", "referee_birthdate": "Aug 3, 1975 ", "referee_citizenship": "Germany"},
+{"local": "Atalanta BC", "visitante": "Valencia CF", "referee_name": "Michael Oliver", "referee_birthdate": "Feb 20, 1985 ", "referee_citizenship": "England"},
+{"local": "Real Madrid", "visitante": "Manchester City", "referee_name": "Daniele Orsato", "referee_birthdate": "Nov 23, 1975 ", "referee_citizenship": "Italy"}
+]
