@@ -1,2 +1,2 @@
-# Quotes Scraper
-Part of Curso de Scrapy 🕷
+# Champions scrapper
+scraper that takes the cahmpions information of https://www.transfermarkt.com/
